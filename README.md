@@ -1,2 +1,2 @@
 # SeleniumAutomating
-Recording applied video on Automation 
+Capturing applied video on Automation 
